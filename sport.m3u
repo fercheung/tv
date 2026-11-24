@@ -1,191 +1,155 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ODZjNDY0ZDIxMTEtZmQ0NA/MmE1ZTdiODIzNTQtNTRlNw.webp" group-title="土超",土超      根克勒比利吉 VS 加济安泰普 (FLV)
-https://live01-cn-ali.xqnbu.com/live/97948697_tsc.flv?auth_key=1797851400-0-248702-ca7968b5d95a2557f4dff1e17aba807f
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ODZjNDY0ZDIxMTEtZmQ0NA/MmE1ZTdiODIzNTQtNTRlNw.webp" group-title="土超",土超      根克勒比利吉 VS 加济安泰普 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/97948697_tsc.m3u8?auth_key=1797851400-0-248702-ca7968b5d95a2557f4dff1e17aba807f
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGViYjg5ODk3ZTEtYjU4Yw/M2VmNmFkZWJlM2ItOTkyNQ.webp" group-title="CBA",CBA杯 广厦 VS 上海玄鸟 (FLV)
-https://live01-cn-ali.xqnbu.com/live/81186543_tsc.flv?auth_key=1797851400-0-5425939-002252c14595bbb7d6477dd4a9af5b9b
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGViYjg5ODk3ZTEtYjU4Yw/M2VmNmFkZWJlM2ItOTkyNQ.webp" group-title="CBA",CBA杯 广厦 VS 上海玄鸟 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/81186543_tsc.m3u8?auth_key=1797851400-0-5425939-002252c14595bbb7d6477dd4a9af5b9b
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGIxZWZkODYxOGYtYjhkNg/MTJkY2Y0MTI1OWQtYWUzYg.webp" group-title="俄超",俄超 奥伦堡 VS 波罗的海 (FLV)
-https://live01-cn-ali.xqnbu.com/live/49161578_tsc.flv?auth_key=1797851400-0-249632-707659cf4435852fbfc93abb4e696940
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGIxZWZkODYxOGYtYjhkNg/MTJkY2Y0MTI1OWQtYWUzYg.webp" group-title="俄超",俄超 奥伦堡 VS 波罗的海 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/49161578_tsc.m3u8?auth_key=1797851400-0-249632-707659cf4435852fbfc93abb4e696940
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OGZjYjM0ZTJiMDktYTA0Nw/ZmYzMjZiZmUwMWUtZjI5MQ.webp" group-title="亚冠", 亚冠 上海海港 VS 武里南联 (FLV)
+https://live01-cn-ali.xqnbu.com/live/28524326_tsc.flv?auth_key=1798114200-0-13387862-e5d7fd6f0c52ad33eaa36b915163c7fc
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OGZjYjM0ZTJiMDktYTA0Nw/ZmYzMjZiZmUwMWUtZjI5MQ.webp" group-title="亚冠", 亚冠 上海海港 VS 武里南联 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/28524326_tsc.m3u8?auth_key=1798114200-0-13387862-e5d7fd6f0c52ad33eaa36b915163c7fc
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ODZjNDY0ZDIxMTEtZmQ0NA/MmE1ZTdiODIzNTQtNTRlNw.webp" group-title="亚冠",亚冠 上海海港   VS  武里南联 (FLV)
+https://live01-cn-ali.xqnbu.com/live/97948697_tsc.flv?auth_key=1798114200-0-248702-9f0a92b2b71cd6c26d1aa7c7a2697a88
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ODZjNDY0ZDIxMTEtZmQ0NA/MmE1ZTdiODIzNTQtNTRlNw.webp" group-title="亚冠",亚冠 上海海港   VS  武里南联 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/97948697_tsc.m3u8?auth_key=1798114200-0-248702-9f0a92b2b71cd6c26d1aa7c7a2697a88
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MGUyMDczMjI0YzQtMGE5NA/MTA4Yjk3NjM4NjEtZWQ1Ng.webp" group-title="亚精英赛",亚精英赛 拉查武里 VS 柔佛新山 (FLV)
+https://live01-cn-ali.xqnbu.com/live/28241826_tsc.flv?auth_key=1798114200-0-968511-8c36d96d4637735b3bc76479cfb8218d
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MGUyMDczMjI0YzQtMGE5NA/MTA4Yjk3NjM4NjEtZWQ1Ng.webp" group-title="亚精英赛",亚精英赛 拉查武里 VS 柔佛新山 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/28241826_tsc.m3u8?auth_key=1798114200-0-968511-8c36d96d4637735b3bc76479cfb8218d
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZTkxNDE2NDQ5ZmYtNDAzOQ/NmM3NzgzMWQyOTQtMWM3YQ.webp" group-title="亚冠",亚冠 河内公安 VS 神户胜利船 (FLV)
+https://live01-cn-ali.xqnbu.com/live/71096352_tsc.flv?auth_key=1798114200-0-5510234-d068ca0fc3389963ef53140e17c7ab19
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZTkxNDE2NDQ5ZmYtNDAzOQ/NmM3NzgzMWQyOTQtMWM3YQ.webp" group-title="亚冠",亚冠 河内公安 VS 神户胜利船 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/71096352_tsc.m3u8?auth_key=1798114200-0-5510234-d068ca0fc3389963ef53140e17c7ab19
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjZlODY3M2JlMjMtYjAxNQ/NzQzMGZhMGJhZGUtNzg2Yg.webp" group-title="亚精英赛",亚精英赛 拉查武里 VS 柔佛新山 (FLV)
+https://live01-cn-ali.xqnbu.com/live/52343915_tsc.flv?auth_key=1798114200-0-248794-28aa23060141b57a71c3e7fc8a202d71
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjZlODY3M2JlMjMtYjAxNQ/NzQzMGZhMGJhZGUtNzg2Yg.webp" group-title="亚精英赛",亚精英赛 拉查武里 VS 柔佛新山 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/52343915_tsc.m3u8?auth_key=1798114200-0-248794-28aa23060141b57a71c3e7fc8a202d71
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTg3NTUyZDMwYTgtZjNiNQ/NWRjNjg3Y2E1NDMtZjE4NA.webp" group-title="亚冠",亚冠  河内公安  VS  神户胜利船 (FLV)
+https://live01-cn-ali.xqnbu.com/live/15176501_tsc.flv?auth_key=1798114200-0-248808-355fe8992c44a5bafd28b73e880f3f36
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTg3NTUyZDMwYTgtZjNiNQ/NWRjNjg3Y2E1NDMtZjE4NA.webp" group-title="亚冠",亚冠  河内公安  VS  神户胜利船 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/15176501_tsc.m3u8?auth_key=1798114200-0-248808-355fe8992c44a5bafd28b73e880f3f36
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGIxZWZkODYxOGYtYjhkNg/MTJkY2Y0MTI1OWQtYWUzYg.webp" group-title="沙特甲",沙特甲 塞卡凯阿拉伯 VS 纳杰马体育 (FLV)
+https://live01-cn-ali.xqnbu.com/live/49161578_tsc.flv?auth_key=1798114200-0-249632-62efd8db1cd6d45c15348c43a5f6fff6
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGIxZWZkODYxOGYtYjhkNg/MTJkY2Y0MTI1OWQtYWUzYg.webp" group-title="沙特甲",沙特甲 塞卡凯阿拉伯 VS 纳杰马体育 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/49161578_tsc.m3u8?auth_key=1798114200-0-249632-62efd8db1cd6d45c15348c43a5f6fff6
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YTA4MGViMmYxYTQtMGYxNQ/ZDM5Njc4NTI2MjYtZmQzOA.webp" group-title="沙特甲",沙特甲 布赖代先锋 VS 阿科多 (FLV)
+https://live01-cn-ali.xqnbu.com/live/11451935_tsc.flv?auth_key=1798114200-0-248815-7ac9cd2c6a10976222314f0b5dcb0f25
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YTA4MGViMmYxYTQtMGYxNQ/ZDM5Njc4NTI2MjYtZmQzOA.webp" group-title="沙特甲",沙特甲 布赖代先锋 VS 阿科多 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/11451935_tsc.m3u8?auth_key=1798114200-0-248815-7ac9cd2c6a10976222314f0b5dcb0f25
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZTYwNjUyOGJmOTEtMWQxNA/OGU2ODYzYTk2OTktYjkzMw.webp" group-title="沙特甲",沙特甲 查巴垒VS祖尔菲 (FLV)
+https://live01-cn-ali.xqnbu.com/live/36268187_tsc.flv?auth_key=1798114200-0-248814-4c97f815bed1d21b2b055857b8a72901
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZTYwNjUyOGJmOTEtMWQxNA/OGU2ODYzYTk2OTktYjkzMw.webp" group-title="沙特甲",沙特甲 查巴垒VS祖尔菲 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/36268187_tsc.m3u8?auth_key=1798114200-0-248814-4c97f815bed1d21b2b055857b8a72901
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGNkZGI2MDJhMWItNDIyZA/YzBkNDFhYjM2N2EtN2Q5Mw.webp" group-title="WCBA",WCBA 广东奥普特女篮 VS 河南豫光金铅女篮 (FLV)
+https://live01-cn-ali.xqnbu.com/live/90502954_tsc.flv?auth_key=1798114200-0-7387849-38cf5feee356c0d7b79979206a1e5740
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGNkZGI2MDJhMWItNDIyZA/YzBkNDFhYjM2N2EtN2Q5Mw.webp" group-title="WCBA",WCBA 广东奥普特女篮 VS 河南豫光金铅女篮 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/90502954_tsc.m3u8?auth_key=1798114200-0-7387849-38cf5feee356c0d7b79979206a1e5740
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YTNhYzYwZGUwNzktOTlkYw/MjNiMjY3Y2VkNDMtOTJmNA.webp" group-title="WCBA",WCBA 大连文体女篮 VS 合肥文旅女篮 (FLV)
+https://live01-cn-ali.xqnbu.com/live/91532023_tsc.flv?auth_key=1798114200-0-249890-24415c887f97a7f3c74cf92c024609dc
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YTNhYzYwZGUwNzktOTlkYw/MjNiMjY3Y2VkNDMtOTJmNA.webp" group-title="WCBA",WCBA 大连文体女篮 VS 合肥文旅女篮 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/91532023_tsc.m3u8?auth_key=1798114200-0-249890-24415c887f97a7f3c74cf92c024609dc
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDAzYmU2ZGVhOGMtOGM4ZQ/NWIyZGM5NzQzY2QtNGUwNA.webp" group-title="WCBA",WCBA  山西竹叶青酒女篮 VS 武汉盛帆黄鹤女篮 (FLV)
+https://live01-cn-ali.xqnbu.com/live/95756650_tsc.flv?auth_key=1798114200-0-252883-78f7a65ddac7e9a681ac8aeff0817119
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDAzYmU2ZGVhOGMtOGM4ZQ/NWIyZGM5NzQzY2QtNGUwNA.webp" group-title="WCBA",WCBA  山西竹叶青酒女篮 VS 武汉盛帆黄鹤女篮 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/95756650_tsc.m3u8?auth_key=1798114200-0-252883-78f7a65ddac7e9a681ac8aeff0817119
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDk0NmUwZWRmODYtNTg1YQ/MmQwOWFlZGVjYjgtNGU5OA.webp" group-title="菲MPBL",菲MPBL  阿布拉韦弗斯 VS 奎松胡斯克尔 (FLV)
+https://live01-cn-ali.xqnbu.com/live/94120740_tsc.flv?auth_key=1798114200-0-255148-899aea8aca74af527a492d94d2c00115
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDk0NmUwZWRmODYtNTg1YQ/MmQwOWFlZGVjYjgtNGU5OA.webp" group-title="菲MPBL",菲MPBL  阿布拉韦弗斯 VS 奎松胡斯克尔 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/94120740_tsc.m3u8?auth_key=1798114200-0-255148-899aea8aca74af527a492d94d2c00115
 #EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjM4YjIzM2Y3YjUtZjA1Mg/MzE5MjJhOTY4N2ItYzViNg.webp" group-title="百家乐专场",百家乐专场 (FLV)
-https://live01-cn-ali.xqnbu.com/live/50902935_tsc.flv?auth_key=1797851400-0-964812-713639764d809f8ebb0a908c4949a7ee
+https://live01-cn-ali.xqnbu.com/live/50902935_tsc.flv?auth_key=1798114200-0-964812-2a20e0875ab76055d0d779fd76099b03
 #EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjM4YjIzM2Y3YjUtZjA1Mg/MzE5MjJhOTY4N2ItYzViNg.webp" group-title="百家乐专场",百家乐专场 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/50902935_tsc.m3u8?auth_key=1797851400-0-964812-713639764d809f8ebb0a908c4949a7ee
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjZlODY3M2JlMjMtYjAxNQ/NzQzMGZhMGJhZGUtNzg2Yg.webp" group-title="越南联",越南联 南定绿钢 VS 海防 (FLV)
-https://live01-cn-ali.xqnbu.com/live/52343915_tsc.flv?auth_key=1797851400-0-248794-293b8b9c0530d4d97adf1b33dce83b3c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjZlODY3M2JlMjMtYjAxNQ/NzQzMGZhMGJhZGUtNzg2Yg.webp" group-title="越南联",越南联 南定绿钢 VS 海防 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/52343915_tsc.m3u8?auth_key=1797851400-0-248794-293b8b9c0530d4d97adf1b33dce83b3c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MmQzMjhlOGY5YjctZWY4MQ/ZWYwZTI3ODI3YTAtMWY1OQ.webp" group-title="越南联",越南联 同奈长鲜 VS 河内FC (FLV)
-https://live01-cn-ali.xqnbu.com/live/22202916_tsc.flv?auth_key=1797851400-0-13432082-729b9df9d119c8602e4526dbf6e906b1
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MmQzMjhlOGY5YjctZWY4MQ/ZWYwZTI3ODI3YTAtMWY1OQ.webp" group-title="越南联",越南联 同奈长鲜 VS 河内FC (M3U8)
-https://live01-cn-ali.xqnbu.com/live/22202916_tsc.m3u8?auth_key=1797851400-0-13432082-729b9df9d119c8602e4526dbf6e906b1
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/Nzg5NWEyYmRkZWYtMGQ5Ng/NzA0YjlkOTBkNWYtOTM0OQ.webp" group-title="CBA",CBA杯  辽宁 VS 同曦 (FLV)
-https://live01-cn-ali.xqnbu.com/live/87500288_tsc.flv?auth_key=1797851400-0-252882-0159fad2096d73d26c13b64903b91962
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/Nzg5NWEyYmRkZWYtMGQ5Ng/NzA0YjlkOTBkNWYtOTM0OQ.webp" group-title="CBA",CBA杯  辽宁 VS 同曦 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/87500288_tsc.m3u8?auth_key=1797851400-0-252882-0159fad2096d73d26c13b64903b91962
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/Yzc3NmRhYWU2ZjQtYWI3OQ/OGRlOTQyMmE0YWQtODlkOQ.webp" group-title="CBA", CBA杯 广东东阳光 VS  香港金牛 (FLV)
-https://live01-cn-ali.xqnbu.com/live/31418861_tsc.flv?auth_key=1797851400-0-252880-81fd9343bdc43345671b919b3c210ff8
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/Yzc3NmRhYWU2ZjQtYWI3OQ/OGRlOTQyMmE0YWQtODlkOQ.webp" group-title="CBA", CBA杯 广东东阳光 VS  香港金牛 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/31418861_tsc.m3u8?auth_key=1797851400-0-252880-81fd9343bdc43345671b919b3c210ff8
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2ZhMjQzYzQ5ZDgtMTJiOQ/YzlhOGI2NWFlN2YtNGExNQ.webp" group-title="德乙",德乙 汉诺威96 VS 菲尔特 (FLV)
-https://live01-cn-ali.xqnbu.com/live/04151736_tsc.flv?auth_key=1797851400-0-249679-eadec5a0c761d7abf134087ad631d37e
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2ZhMjQzYzQ5ZDgtMTJiOQ/YzlhOGI2NWFlN2YtNGExNQ.webp" group-title="德乙",德乙 汉诺威96 VS 菲尔特 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/04151736_tsc.m3u8?auth_key=1797851400-0-249679-eadec5a0c761d7abf134087ad631d37e
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MGUyMDczMjI0YzQtMGE5NA/MTA4Yjk3NjM4NjEtZWQ1Ng.webp" group-title="德乙",德乙 纽伦堡 VS 布伦瑞克 (FLV)
-https://live01-cn-ali.xqnbu.com/live/28241826_tsc.flv?auth_key=1797851400-0-968511-87622e16cb27b27379bb640df64076cf
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MGUyMDczMjI0YzQtMGE5NA/MTA4Yjk3NjM4NjEtZWQ1Ng.webp" group-title="德乙",德乙 纽伦堡 VS 布伦瑞克 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/28241826_tsc.m3u8?auth_key=1797851400-0-968511-87622e16cb27b27379bb640df64076cf
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDk0NmUwZWRmODYtNTg1YQ/MmQwOWFlZGVjYjgtNGU5OA.webp" group-title="德乙",德乙  沃尔夫斯堡 VS 荷尔斯泰因 (FLV)
-https://live01-cn-ali.xqnbu.com/live/94120740_tsc.flv?auth_key=1797851400-0-255148-e4ad56c94681dab6aa8046a59a3226ab
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDk0NmUwZWRmODYtNTg1YQ/MmQwOWFlZGVjYjgtNGU5OA.webp" group-title="德乙",德乙  沃尔夫斯堡 VS 荷尔斯泰因 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/94120740_tsc.m3u8?auth_key=1797851400-0-255148-e4ad56c94681dab6aa8046a59a3226ab
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWY2OWM3N2EzODYtNDAwZQ/ZDZkODg2NWNlYWMtNTQ2OQ.webp" group-title="CBA",CBA杯 上海久事 VS 江西大谦 (FLV)
-https://live01-cn-ali.xqnbu.com/live/00685871_tsc.flv?auth_key=1797851400-0-4943662-770a1701d77d5b14b42a86439ba52510
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWY2OWM3N2EzODYtNDAwZQ/ZDZkODg2NWNlYWMtNTQ2OQ.webp" group-title="CBA",CBA杯 上海久事 VS 江西大谦 (M3U8)
-https://live01-cn-ali.xqnbu.com/live/00685871_tsc.m3u8?auth_key=1797851400-0-4943662-770a1701d77d5b14b42a86439ba52510
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWMwYTkwODJkYjYtOWQzMw/YWYzNDhhMTQ4MDEtNDNjYw.webp" group-title="土耳其篮球超级联赛",土耳其篮球超级联赛 | 皮纳尔 VS 代尼兹利 (FLV)
-https://live.hztx2020.com/live/14282296_34915a62f06792ba50dab32713939d51.flv?auth_key=1795269872-0-0-ceea2a28f7eb4904205010a957e3e072
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWMwYTkwODJkYjYtOWQzMw/YWYzNDhhMTQ4MDEtNDNjYw.webp" group-title="土耳其篮球超级联赛",土耳其篮球超级联赛 | 皮纳尔 VS 代尼兹利 (M3U8)
-https://live.hztx2020.com/live/14282296_34915a62f06792ba50dab32713939d51.m3u8?auth_key=1795269872-0-0-ceea2a28f7eb4904205010a957e3e072
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YjdlNjkwYjQzYWUtZDg0Yg/ZDNkNjU0OGZlOTAtMjQ1Zg.webp" group-title="土耳其甲级联赛",土耳其甲级联赛 | 伊斯坦布尔体育 VS 克斯欧仁古库 (FLV)
-https://live2.hztx2020.com/live/14159189_f46744a056f2c71d9fc11f2bc2f84b16.flv?auth_key=1795271414-0-0-d302d8138636dd16ad2f942512435b65
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YjdlNjkwYjQzYWUtZDg0Yg/ZDNkNjU0OGZlOTAtMjQ1Zg.webp" group-title="土耳其甲级联赛",土耳其甲级联赛 | 伊斯坦布尔体育 VS 克斯欧仁古库 (M3U8)
-https://live2.hztx2020.com/live/14159189_f46744a056f2c71d9fc11f2bc2f84b16.m3u8?auth_key=1795271414-0-0-d302d8138636dd16ad2f942512435b65
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MTdkZDM2MmE4OGUtZDM1YQ/ZWIwNTI4ZDczNjktNjU3Yw.webp" group-title="土耳其甲级联赛",土耳其甲级联赛 | 马丁1969体育 VS 班德尔马体育 (FLV)
-https://live3.hztx2020.com/live/14159193_edd348a2a0d94cd27210681db3376a52.flv?auth_key=1795271414-0-0-3324f3843f55f4cadf9d67f3f6337ccb
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MTdkZDM2MmE4OGUtZDM1YQ/ZWIwNTI4ZDczNjktNjU3Yw.webp" group-title="土耳其甲级联赛",土耳其甲级联赛 | 马丁1969体育 VS 班德尔马体育 (M3U8)
-https://live3.hztx2020.com/live/14159193_edd348a2a0d94cd27210681db3376a52.m3u8?auth_key=1795271414-0-0-3324f3843f55f4cadf9d67f3f6337ccb
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNmY2U1NDZlMDctMDJlOQ/MDAwZmU2YTE1ZDYtYmIxMw.webp" group-title="俄罗斯甲级联赛",俄罗斯甲级联赛 | 下诺夫哥罗德 VS 莫斯科鱼雷 (FLV)
-https://live1.hztx2020.com/live/2420361_c1ec078ee3ce52ce06110a64935ad419.flv?auth_key=1795271535-0-0-d506f42f56f97a0f4a177c09ff9cecae
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNmY2U1NDZlMDctMDJlOQ/MDAwZmU2YTE1ZDYtYmIxMw.webp" group-title="俄罗斯甲级联赛",俄罗斯甲级联赛 | 下诺夫哥罗德 VS 莫斯科鱼雷 (M3U8)
-https://live1.hztx2020.com/live/2420361_c1ec078ee3ce52ce06110a64935ad419.m3u8?auth_key=1795271535-0-0-d506f42f56f97a0f4a177c09ff9cecae
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTQzN2Q5ZDIwNmUtZGQ4NA/NWY0YTA3MDBhMjctMzk1MA.webp" group-title="阿塞拜疆超级联赛",阿塞拜疆超级联赛 | 沙马基 VS 托武兹 (FLV)
-https://live4.hztx2020.com/live/14215771_b6ff65f5c0898a659d47a2cebddf64f1.flv?auth_key=1795271424-0-0-3d58c2bb8f951cafc4dace18660ff509
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTQzN2Q5ZDIwNmUtZGQ4NA/NWY0YTA3MDBhMjctMzk1MA.webp" group-title="阿塞拜疆超级联赛",阿塞拜疆超级联赛 | 沙马基 VS 托武兹 (M3U8)
-https://live4.hztx2020.com/live/14215771_b6ff65f5c0898a659d47a2cebddf64f1.m3u8?auth_key=1795271424-0-0-3d58c2bb8f951cafc4dace18660ff509
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWU2MDhkZDA1NTEtNTFmMg/ZmI1NjkzMmRjY2MtZmY1MA.webp" group-title="乌克兰甲级联赛",乌克兰甲级联赛 | 基辅火车头 VS 普里卡帕亚 (FLV)
-https://live.hztx2020.com/live/14188501_4351055c3e62af4e1bc06386fb2cd1a3.flv?auth_key=1795272571-0-0-636dd9bc9406e3d4e92950d099b5e561
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWU2MDhkZDA1NTEtNTFmMg/ZmI1NjkzMmRjY2MtZmY1MA.webp" group-title="乌克兰甲级联赛",乌克兰甲级联赛 | 基辅火车头 VS 普里卡帕亚 (M3U8)
-https://live.hztx2020.com/live/14188501_4351055c3e62af4e1bc06386fb2cd1a3.m3u8?auth_key=1795272571-0-0-636dd9bc9406e3d4e92950d099b5e561
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjkwMDllOTI4ZjMtN2RkMA/NzA2MTA2NWRkZWQtNGZmYw.webp" group-title="罗马尼亚乙级联赛",罗马尼亚乙级联赛 | 苏西瓦 VS 蒂米什瓦拉 (FLV)
-https://live5.hztx2020.com/live/14205971_bdf9a5e47ebdbda4a2b4a79a7629a2bb.flv?auth_key=1795271819-0-0-37aaff95b69bdcebf8d65d1113ae04a5
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjkwMDllOTI4ZjMtN2RkMA/NzA2MTA2NWRkZWQtNGZmYw.webp" group-title="罗马尼亚乙级联赛",罗马尼亚乙级联赛 | 苏西瓦 VS 蒂米什瓦拉 (M3U8)
-https://live5.hztx2020.com/live/14205971_bdf9a5e47ebdbda4a2b4a79a7629a2bb.m3u8?auth_key=1795271819-0-0-37aaff95b69bdcebf8d65d1113ae04a5
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDc5MzI4YWY2NDAtN2EzNw/NDA2NDM5NGViYzctYTA1YQ.webp" group-title="越南甲",越南甲 | 胡志明市贝卡麦克斯 VS 顺化 (FLV)
-https://live3.hztx2020.com/live/14404158_ff4b23294d5b7ce12cec9d4d31e1729a.flv?auth_key=1795273100-0-0-5630126320f89cf8783d53e2fb3cd384
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDc5MzI4YWY2NDAtN2EzNw/NDA2NDM5NGViYzctYTA1YQ.webp" group-title="越南甲",越南甲 | 胡志明市贝卡麦克斯 VS 顺化 (M3U8)
-https://live3.hztx2020.com/live/14404158_ff4b23294d5b7ce12cec9d4d31e1729a.m3u8?auth_key=1795273100-0-0-5630126320f89cf8783d53e2fb3cd384
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2YxMzZkZTA4MjgtNGVhMg/MGY5NzlhNGY4MzYtYjEwYg.webp" group-title="亚美尼亚超级联赛",亚美尼亚超级联赛 | 休尼克FC VS 乌拉尔图 (FLV)
-https://live1.hztx2020.com/live/14115394_247beaaa2f04a8ee1616545892540a15.flv?auth_key=1795273161-0-0-9c0dccd913e396aa35f9fb20332d2f86
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2YxMzZkZTA4MjgtNGVhMg/MGY5NzlhNGY4MzYtYjEwYg.webp" group-title="亚美尼亚超级联赛",亚美尼亚超级联赛 | 休尼克FC VS 乌拉尔图 (M3U8)
-https://live1.hztx2020.com/live/14115394_247beaaa2f04a8ee1616545892540a15.m3u8?auth_key=1795273161-0-0-9c0dccd913e396aa35f9fb20332d2f86
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjhmYWJiYWZjMGYtY2Q3Mg/OGE4MjIyNTJiZGYtODRkYg.webp" group-title="波兰丙级联赛",波兰丙级联赛 | 别尔斯科 VS 弗罗茨瓦夫B队 (FLV)
-https://live4.hztx2020.com/live/14072742_675cc195487a147ac177aa1470fb758a.flv?auth_key=1795273211-0-0-bc5d981b20faff18e399b44696fc810c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjhmYWJiYWZjMGYtY2Q3Mg/OGE4MjIyNTJiZGYtODRkYg.webp" group-title="波兰丙级联赛",波兰丙级联赛 | 别尔斯科 VS 弗罗茨瓦夫B队 (M3U8)
-https://live4.hztx2020.com/live/14072742_675cc195487a147ac177aa1470fb758a.m3u8?auth_key=1795273211-0-0-bc5d981b20faff18e399b44696fc810c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNiMjVhNzkzYmUtNWIzNg/Nzk0YzRlYjlmNDctMzYyMg.webp" group-title="越南甲",越南甲 | 富寿春善 VS 隆安 (FLV)
-https://live2.hztx2020.com/live/14360439_2ea4efc2c1011db8ed0c8b6fc19286bf.flv?auth_key=1795273211-0-0-af7b452bbae49ca9caa44b70a871a9b5
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNiMjVhNzkzYmUtNWIzNg/Nzk0YzRlYjlmNDctMzYyMg.webp" group-title="越南甲",越南甲 | 富寿春善 VS 隆安 (M3U8)
-https://live2.hztx2020.com/live/14360439_2ea4efc2c1011db8ed0c8b6fc19286bf.m3u8?auth_key=1795273211-0-0-af7b452bbae49ca9caa44b70a871a9b5
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NzczYTNjYzBkN2ItZWY5ZA/M2IyYzkyNDkyYWQtYjIyZQ.webp" group-title="白俄罗斯超级联赛",白俄罗斯超级联赛 | 巴兰诺域治 VS 博布鲁伊斯克 (FLV)
-https://live.hztx2020.com/live/2420627_5e139845531e608eef1e81a64eca4b6a.flv?auth_key=1795273241-0-0-2149992fcf63a0cacfeb7d65d38be7cc
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NzczYTNjYzBkN2ItZWY5ZA/M2IyYzkyNDkyYWQtYjIyZQ.webp" group-title="白俄罗斯超级联赛",白俄罗斯超级联赛 | 巴兰诺域治 VS 博布鲁伊斯克 (M3U8)
-https://live.hztx2020.com/live/2420627_5e139845531e608eef1e81a64eca4b6a.m3u8?auth_key=1795273241-0-0-2149992fcf63a0cacfeb7d65d38be7cc
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDJhYTk4NmI1MWUtZTdiOA/N2I3MzQ1MmM5YWItYzdkZg.webp" group-title="白俄罗斯甲级联赛",白俄罗斯甲级联赛 | 尼瓦杜比兹诺 VS 明斯克迪纳摩B队 (FLV)
-https://live.hztx2020.com/live/2420224_e3194c20fb5142313b1544dcef5912b0.flv?auth_key=1795273303-0-0-9088f9e6fa8d21dea84b56351f3c6a8d
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDJhYTk4NmI1MWUtZTdiOA/N2I3MzQ1MmM5YWItYzdkZg.webp" group-title="白俄罗斯甲级联赛",白俄罗斯甲级联赛 | 尼瓦杜比兹诺 VS 明斯克迪纳摩B队 (M3U8)
-https://live.hztx2020.com/live/2420224_e3194c20fb5142313b1544dcef5912b0.m3u8?auth_key=1795273303-0-0-9088f9e6fa8d21dea84b56351f3c6a8d
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWY5YjQ4NDNmMzctOGIwMg/Y2YxM2NlNTJjOTUtODY0ZA.webp" group-title="白俄罗斯甲级联赛",白俄罗斯甲级联赛 | 埃涅尔格提克BGU VS 斯卢茨克 (FLV)
-https://live1.hztx2020.com/live/jr7owipo2pligq0_bbf2e9663094ad5fc1ff550247f634e5.flv?auth_key=1795273334-0-0-e042a3ed967ad144c1d7be808f437c2c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWY5YjQ4NDNmMzctOGIwMg/Y2YxM2NlNTJjOTUtODY0ZA.webp" group-title="白俄罗斯甲级联赛",白俄罗斯甲级联赛 | 埃涅尔格提克BGU VS 斯卢茨克 (M3U8)
-https://live1.hztx2020.com/live/jr7owipo2pligq0_bbf2e9663094ad5fc1ff550247f634e5.m3u8?auth_key=1795273334-0-0-e042a3ed967ad144c1d7be808f437c2c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MmEzZTVhZjE0MWYtODJkMA/NTk0ODkxY2JjYTItN2E4MA.webp" group-title="波兰丙级联赛",波兰丙级联赛 | 索克尔克勒泽威 VS 台基 (FLV)
-https://live.hztx2020.com/live/14072738_ebe1fcbb4e01abf03ded8cb76de6db67.flv?auth_key=1795273329-0-0-9412ba9c8219edc0d8639537e9d6ee48
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MmEzZTVhZjE0MWYtODJkMA/NTk0ODkxY2JjYTItN2E4MA.webp" group-title="波兰丙级联赛",波兰丙级联赛 | 索克尔克勒泽威 VS 台基 (M3U8)
-https://live.hztx2020.com/live/14072738_ebe1fcbb4e01abf03ded8cb76de6db67.m3u8?auth_key=1795273329-0-0-9412ba9c8219edc0d8639537e9d6ee48
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZmU0M2JjZTNlYTEtNzJlNw/M2RmZWRjYzQ4YTgtYzFiYw.webp" group-title="白俄罗斯超级联赛",白俄罗斯超级联赛 | 戈梅利 VS 鲍里索夫巴特 (FLV)
-https://live.hztx2020.com/live/2420621_6992dafee7667cf0e31dbac97cc302c5.flv?auth_key=1795274210-0-0-b8247b2888ac2b6687a9a7ab1af46fea
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZmU0M2JjZTNlYTEtNzJlNw/M2RmZWRjYzQ4YTgtYzFiYw.webp" group-title="白俄罗斯超级联赛",白俄罗斯超级联赛 | 戈梅利 VS 鲍里索夫巴特 (M3U8)
-https://live.hztx2020.com/live/2420621_6992dafee7667cf0e31dbac97cc302c5.m3u8?auth_key=1795274210-0-0-b8247b2888ac2b6687a9a7ab1af46fea
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NjAwMjFlMDIyODItOGNlZA/NTFhMmUyZjQxODktYmViNg.webp" group-title="葡萄牙杯",葡萄牙杯 | 葡萄牙竞技 VS 卡萨比亚 (FLV)
-https://live1.hztx2020.com/live/14623980_31d452b45d8682488cc6a96ba7e8ab00.flv?auth_key=1795274871-0-0-15fecc0371ed225f2ef796449b8f4e22
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NjAwMjFlMDIyODItOGNlZA/NTFhMmUyZjQxODktYmViNg.webp" group-title="葡萄牙杯",葡萄牙杯 | 葡萄牙竞技 VS 卡萨比亚 (M3U8)
-https://live1.hztx2020.com/live/14623980_31d452b45d8682488cc6a96ba7e8ab00.m3u8?auth_key=1795274871-0-0-15fecc0371ed225f2ef796449b8f4e22
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NDEzZmNiM2Y5MGQtYzBiOQ/ZGNjOWM1ODBhNTgtYzI2Zg.webp" group-title="波兰篮球超级联赛",波兰篮球超级联赛 | 卢布林 VS 托伦 (FLV)
-https://live4.hztx2020.com/live/14165944_639726772c6401c26d63312700fc23d0.flv?auth_key=1795276386-0-0-0ee8fe4018346e2a9b6b96470d34258b
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NDEzZmNiM2Y5MGQtYzBiOQ/ZGNjOWM1ODBhNTgtYzI2Zg.webp" group-title="波兰篮球超级联赛",波兰篮球超级联赛 | 卢布林 VS 托伦 (M3U8)
-https://live4.hztx2020.com/live/14165944_639726772c6401c26d63312700fc23d0.m3u8?auth_key=1795276386-0-0-0ee8fe4018346e2a9b6b96470d34258b
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YjRjZTUyMTc4ZTQtYjA1Yg/MzQ2YmRhMWM1NmUtMzJlYw.webp" group-title="全国男子篮球联赛",全国男子篮球联赛 | 贵州猛龙 VS 杭州经纬 (FLV)
-https://live2.hztx2020.com/live/76332204_e4c8598c4220fef8df473e1ca9e62e33.flv?auth_key=1795276411-0-0-e3091d58c10fdb8736b53df1eb29c5f3
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YjRjZTUyMTc4ZTQtYjA1Yg/MzQ2YmRhMWM1NmUtMzJlYw.webp" group-title="全国男子篮球联赛",全国男子篮球联赛 | 贵州猛龙 VS 杭州经纬 (M3U8)
-https://live2.hztx2020.com/live/76332204_e4c8598c4220fef8df473e1ca9e62e33.m3u8?auth_key=1795276411-0-0-e3091d58c10fdb8736b53df1eb29c5f3
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWYwYzc1NjcxODAtMzU3Zg/ZjA2YzVlMjVjYzQtMmRiYw.webp" group-title="中国女子篮球联赛",中国女子篮球联赛 | 大连文体旅女篮 VS 山西竹叶青酒女篮 (FLV)
-https://live5.hztx2020.com/live/76692534_3274d5fc8a8850229de1ea23aeeab934.flv?auth_key=1795276759-0-0-55201d1fc3ed4a447b2ad26419f85bda
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWYwYzc1NjcxODAtMzU3Zg/ZjA2YzVlMjVjYzQtMmRiYw.webp" group-title="中国女子篮球联赛",中国女子篮球联赛 | 大连文体旅女篮 VS 山西竹叶青酒女篮 (M3U8)
-https://live5.hztx2020.com/live/76692534_3274d5fc8a8850229de1ea23aeeab934.m3u8?auth_key=1795276759-0-0-55201d1fc3ed4a447b2ad26419f85bda
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGIxZWZkODYxOGYtYjhkNg/MTJkY2Y0MTI1OWQtYWUzYg.webp" group-title="其他比赛",苗苗 (比赛流)
-https://live.hztx2020.com/live/2421896_3528e124bb93743a9405498ff6c2c774_autoChange.m3u8?auth_key=1795276733-0-0-c8a1c72d5cd61a0998dfccbb1ab6a34e
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ODZjNDY0ZDIxMTEtZmQ0NA/MmE1ZTdiODIzNTQtNTRlNw.webp" group-title="其他比赛",小狐狸 (比赛流)
-https://live.hztx2020.com/live/14139739_4dac099dbbcc573d0c008e9f77a0f9ea_autoChange.m3u8?auth_key=1795276775-0-0-9fa84839178bc148593270bb3b6dc62e
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NzczYTNjYzBkN2ItZWY5ZA/M2IyYzkyNDkyYWQtYjIyZQ.webp" group-title="其他比赛",卫星11 (比赛流)
-https://live.hztx2020.com/live/2420627_5e139845531e608eef1e81a64eca4b6a_autoChange.m3u8?auth_key=1795276772-0-0-0df8cc9c9144ff180bbf4bfdf5d03de4
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZmU0M2JjZTNlYTEtNzJlNw/M2RmZWRjYzQ4YTgtYzFiYw.webp" group-title="其他比赛",卫星17 (比赛流)
-https://live.hztx2020.com/live/2420621_6992dafee7667cf0e31dbac97cc302c5_autoChange.m3u8?auth_key=1795276772-0-0-0d241acb554f8b67588688d86e476235
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDJhYTk4NmI1MWUtZTdiOA/N2I3MzQ1MmM5YWItYzdkZg.webp" group-title="其他比赛",卫星20 (比赛流)
-https://live.hztx2020.com/live/2420224_e3194c20fb5142313b1544dcef5912b0_autoChange.m3u8?auth_key=1795276772-0-0-49691103571859f0db2128a000d45437
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWY5YjQ4NDNmMzctOGIwMg/Y2YxM2NlNTJjOTUtODY0ZA.webp" group-title="其他比赛",卫星05 (比赛流)
-https://live1.hztx2020.com/live/jr7owipo2pligq0_bbf2e9663094ad5fc1ff550247f634e5_autoChange.m3u8?auth_key=1795276782-0-0-37fa015c613bafd7998062accb26565f
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNmY2U1NDZlMDctMDJlOQ/MDAwZmU2YTE1ZDYtYmIxMw.webp" group-title="其他比赛",卫星08 (比赛流)
-https://live1.hztx2020.com/live/2420361_c1ec078ee3ce52ce06110a64935ad419_autoChange.m3u8?auth_key=1795276775-0-0-8b9f5749edb96342bb031362aa2d9b29
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MTdkZDM2MmE4OGUtZDM1YQ/ZWIwNTI4ZDczNjktNjU3Yw.webp" group-title="其他比赛",卫星04 (比赛流)
-https://live3.hztx2020.com/live/14159193_edd348a2a0d94cd27210681db3376a52_autoChange.m3u8?auth_key=1795276775-0-0-2a436cbe2e9b567fe757a6c3466c3fcd
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YjdlNjkwYjQzYWUtZDg0Yg/ZDNkNjU0OGZlOTAtMjQ1Zg.webp" group-title="其他比赛",卫星01 (比赛流)
-https://live2.hztx2020.com/live/14159189_f46744a056f2c71d9fc11f2bc2f84b16_autoChange.m3u8?auth_key=1795276775-0-0-450db983ae92b0a6264072345fa8ebc8
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWU2MDhkZDA1NTEtNTFmMg/ZmI1NjkzMmRjY2MtZmY1MA.webp" group-title="其他比赛",卫星16 (比赛流)
-https://live.hztx2020.com/live/14188501_4351055c3e62af4e1bc06386fb2cd1a3_autoChange.m3u8?auth_key=1795276772-0-0-f4bef7728c3b6f172b9265db6391c81e
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NjAwMjFlMDIyODItOGNlZA/NTFhMmUyZjQxODktYmViNg.webp" group-title="其他比赛",卫星13 (比赛流)
-https://live1.hztx2020.com/live/14623980_31d452b45d8682488cc6a96ba7e8ab00_autoChange.m3u8?auth_key=1795276773-0-0-adbf79f2637f7fb99ede832961c4bb62
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2YxMzZkZTA4MjgtNGVhMg/MGY5NzlhNGY4MzYtYjEwYg.webp" group-title="其他比赛",卫星06 (比赛流)
-https://live1.hztx2020.com/live/14115394_247beaaa2f04a8ee1616545892540a15_autoChange.m3u8?auth_key=1795276773-0-0-ad1445d44b67f32892f629fd62d625eb
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTQzN2Q5ZDIwNmUtZGQ4NA/NWY0YTA3MDBhMjctMzk1MA.webp" group-title="其他比赛",卫星10 (比赛流)
-https://live4.hztx2020.com/live/14215771_b6ff65f5c0898a659d47a2cebddf64f1_autoChange.m3u8?auth_key=1795276775-0-0-b887dab084a15c08b00fdd500328eba4
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNiMjVhNzkzYmUtNWIzNg/Nzk0YzRlYjlmNDctMzYyMg.webp" group-title="其他比赛",卫星07 (比赛流)
-https://live2.hztx2020.com/live/14360439_2ea4efc2c1011db8ed0c8b6fc19286bf_autoChange.m3u8?auth_key=1795276773-0-0-81b4c0afaf1c72926c1d3a20d9dec2ad
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDc5MzI4YWY2NDAtN2EzNw/NDA2NDM5NGViYzctYTA1YQ.webp" group-title="其他比赛",卫星15 (比赛流)
-https://live3.hztx2020.com/live/14404158_ff4b23294d5b7ce12cec9d4d31e1729a_autoChange.m3u8?auth_key=1795276773-0-0-9d39f8c85feb6335e2decd8ed7b6cd3c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjkwMDllOTI4ZjMtN2RkMA/NzA2MTA2NWRkZWQtNGZmYw.webp" group-title="其他比赛",卫星19 (比赛流)
-https://live5.hztx2020.com/live/14205971_bdf9a5e47ebdbda4a2b4a79a7629a2bb_autoChange.m3u8?auth_key=1795276775-0-0-0251a56ab93a585c846ca13edec521b8
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjhmYWJiYWZjMGYtY2Q3Mg/OGE4MjIyNTJiZGYtODRkYg.webp" group-title="其他比赛",卫星09 (比赛流)
-https://live4.hztx2020.com/live/14072742_675cc195487a147ac177aa1470fb758a_autoChange.m3u8?auth_key=1795276774-0-0-07f8340f6da5c63660c38fa2c92b641c
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MmEzZTVhZjE0MWYtODJkMA/NTk0ODkxY2JjYTItN2E4MA.webp" group-title="其他比赛",卫星02 (比赛流)
-https://live.hztx2020.com/live/14072738_ebe1fcbb4e01abf03ded8cb76de6db67_autoChange.m3u8?auth_key=1795276774-0-0-3046fa47c9f73f24f8cba1ba252387a5
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjZlODY3M2JlMjMtYjAxNQ/NzQzMGZhMGJhZGUtNzg2Yg.webp" group-title="其他比赛",妮妮 (比赛流)
-https://live5.hztx2020.com/live/14360814_7138c622ee6a0fde39443fb12fe0fc5c_autoChange.m3u8?auth_key=1795276777-0-0-231381707e3396d1eb412dc0e673bdd0
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MmQzMjhlOGY5YjctZWY4MQ/ZWYwZTI3ODI3YTAtMWY1OQ.webp" group-title="其他比赛",多多 (比赛流)
-https://live.hztx2020.com/live/14360815_9ad5c2a1a504b33e9430c5169472b51e_autoChange.m3u8?auth_key=1795276777-0-0-f91c38345c09d1fe9a2630177e987b20
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWMwYTkwODJkYjYtOWQzMw/YWYzNDhhMTQ4MDEtNDNjYw.webp" group-title="其他比赛",卫星03 (比赛流)
-https://live.hztx2020.com/live/14282296_34915a62f06792ba50dab32713939d51_autoChange.m3u8?auth_key=1795276771-0-0-a2b722304aa595e466fb1d381e96359b
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NDEzZmNiM2Y5MGQtYzBiOQ/ZGNjOWM1ODBhNTgtYzI2Zg.webp" group-title="其他比赛",卫星14 (比赛流)
-https://live4.hztx2020.com/live/14165944_639726772c6401c26d63312700fc23d0_autoChange.m3u8?auth_key=1795276771-0-0-eb4f1ce4f3733d95129056feceed52d1
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWYwYzc1NjcxODAtMzU3Zg/ZjA2YzVlMjVjYzQtMmRiYw.webp" group-title="其他比赛",卫星12 (比赛流)
-https://live5.hztx2020.com/live/76692534_3274d5fc8a8850229de1ea23aeeab934_autoChange.m3u8?auth_key=1795276771-0-0-d29a398d1df70ef710e214e6eb444075
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YjRjZTUyMTc4ZTQtYjA1Yg/MzQ2YmRhMWM1NmUtMzJlYw.webp" group-title="其他比赛",卫星18 (比赛流)
-https://live2.hztx2020.com/live/76332204_e4c8598c4220fef8df473e1ca9e62e33_autoChange.m3u8?auth_key=1795276772-0-0-eba8aafbc84c5c03998f7d89f4a5a45b
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGViYjg5ODk3ZTEtYjU4Yw/M2VmNmFkZWJlM2ItOTkyNQ.webp" group-title="其他比赛",小鸡 (比赛流)
-https://live4.hztx2020.com/live/14720176_68dd81af848cf3a815ea445ae8a2f382_autoChange.m3u8?auth_key=1795276772-0-0-5131af837c7490912aa6dab7228b417e
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2ZhMjQzYzQ5ZDgtMTJiOQ/YzlhOGI2NWFlN2YtNGExNQ.webp" group-title="其他比赛",红姐姐 (比赛流)
-https://live2.hztx2020.com/live/14099483_220501eb22ef63503a2ec3743e04a2c5_autoChange.m3u8?auth_key=1795276773-0-0-1ab1543e539eef0a45f51faca5be8622
+https://live01-cn-ali.xqnbu.com/live/50902935_tsc.m3u8?auth_key=1798114200-0-964812-2a20e0875ab76055d0d779fd76099b03
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NTM3YzViM2IzODktY2NmMg/OWU2MGU2NDM4NDctYjYzYQ.webp" group-title="泰甲",泰甲 佛统联 VS 猜那犀鸟 (FLV)
+https://live01-cn-ali.xqnbu.com/live/88107502_tsc.flv?auth_key=1798114200-0-658862-2de0e4ca84189cf9dd6b3c43a81f8bfc
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NTM3YzViM2IzODktY2NmMg/OWU2MGU2NDM4NDctYjYzYQ.webp" group-title="泰甲",泰甲 佛统联 VS 猜那犀鸟 (M3U8)
+https://live01-cn-ali.xqnbu.com/live/88107502_tsc.m3u8?auth_key=1798114200-0-658862-2de0e4ca84189cf9dd6b3c43a81f8bfc
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWY5YjQ4NDNmMzctOGIwMg/Y2YxM2NlNTJjOTUtODY0ZA.webp" group-title="CVL",CVL Women | 上海光明优倍 VS 河南双汇 (FLV)
+https://live.hztx2020.com/live/6975rid0gezagk2_b7dde6858f3b9b0a088cb85b8a9d1c75.flv?auth_key=1795533034-0-0-643bde029d01d3ee05f7b7ff1395a9a8
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWY5YjQ4NDNmMzctOGIwMg/Y2YxM2NlNTJjOTUtODY0ZA.webp" group-title="CVL",CVL Women | 上海光明优倍 VS 河南双汇 (M3U8)
+https://live.hztx2020.com/live/6975rid0gezagk2_b7dde6858f3b9b0a088cb85b8a9d1c75.m3u8?auth_key=1795533034-0-0-643bde029d01d3ee05f7b7ff1395a9a8
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNiMjVhNzkzYmUtNWIzNg/Nzk0YzRlYjlmNDctMzYyMg.webp" group-title="菲律宾MPBL",菲律宾MPBL | 阿布拉韦弗斯 VS 奎松胡斯克尔 (FLV)
+https://live.hztx2020.com/live/14695932_a30cff4e66f8398b75484dfe3d7499cb.flv?auth_key=1795533065-0-0-54b21eac1e5ccd630315eb440c498463
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNiMjVhNzkzYmUtNWIzNg/Nzk0YzRlYjlmNDctMzYyMg.webp" group-title="菲律宾MPBL",菲律宾MPBL | 阿布拉韦弗斯 VS 奎松胡斯克尔 (M3U8)
+https://live.hztx2020.com/live/14695932_a30cff4e66f8398b75484dfe3d7499cb.m3u8?auth_key=1795533065-0-0-54b21eac1e5ccd630315eb440c498463
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWYwYzc1NjcxODAtMzU3Zg/ZjA2YzVlMjVjYzQtMmRiYw.webp" group-title="CVL",CVL Women | 福建安溪铁观音 VS 浙江西塘姚庄 (FLV)
+https://live.hztx2020.com/live/34kgxi5wo3wue7o_ff9d6e8860f5a621ccab6af8d50a9570.flv?auth_key=1795533378-0-0-eea18f48a838b1b9ef0e4f9a2e691684
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWYwYzc1NjcxODAtMzU3Zg/ZjA2YzVlMjVjYzQtMmRiYw.webp" group-title="CVL",CVL Women | 福建安溪铁观音 VS 浙江西塘姚庄 (M3U8)
+https://live.hztx2020.com/live/34kgxi5wo3wue7o_ff9d6e8860f5a621ccab6af8d50a9570.m3u8?auth_key=1795533378-0-0-eea18f48a838b1b9ef0e4f9a2e691684
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDc5MzI4YWY2NDAtN2EzNw/NDA2NDM5NGViYzctYTA1YQ.webp" group-title="浙江省城市篮球联赛",浙江省城市篮球联赛 | 温州 VS 海宁 (FLV)
+https://live.hztx2020.com/live/edq0esdrvl0fekx_8ef73a6e46304f387858652159cf4d17.flv?auth_key=1795534079-0-0-559fca99c2af369544d597e150e6705b
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDc5MzI4YWY2NDAtN2EzNw/NDA2NDM5NGViYzctYTA1YQ.webp" group-title="浙江省城市篮球联赛",浙江省城市篮球联赛 | 温州 VS 海宁 (M3U8)
+https://live.hztx2020.com/live/edq0esdrvl0fekx_8ef73a6e46304f387858652159cf4d17.m3u8?auth_key=1795534079-0-0-559fca99c2af369544d597e150e6705b
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2YxMzZkZTA4MjgtNGVhMg/MGY5NzlhNGY4MzYtYjEwYg.webp" group-title="浙江省城市篮球联赛",浙江省城市篮球联赛 | 金华 VS 玉环 (FLV)
+https://live.hztx2020.com/live/34kgps1lroxheko_01a626313b5eeb681f2cbd4a070502b5.flv?auth_key=1795534079-0-0-0d1816e81545c44b6338814ca8fe57e2
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2YxMzZkZTA4MjgtNGVhMg/MGY5NzlhNGY4MzYtYjEwYg.webp" group-title="浙江省城市篮球联赛",浙江省城市篮球联赛 | 金华 VS 玉环 (M3U8)
+https://live.hztx2020.com/live/34kgps1lroxheko_01a626313b5eeb681f2cbd4a070502b5.m3u8?auth_key=1795534079-0-0-0d1816e81545c44b6338814ca8fe57e2
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NzczYTNjYzBkN2ItZWY5ZA/M2IyYzkyNDkyYWQtYjIyZQ.webp" group-title="FIBA非洲篮球联赛",FIBA非洲篮球联赛 | 纳穆旺戈开拓者 VS 达尔城 (FLV)
+https://live.hztx2020.com/live/76967252_716600ad2f0749eeea9581215db7198c.flv?auth_key=1795536502-0-0-1a9c2f8984dbe6055a3bcd7d7609d39e
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NzczYTNjYzBkN2ItZWY5ZA/M2IyYzkyNDkyYWQtYjIyZQ.webp" group-title="FIBA非洲篮球联赛",FIBA非洲篮球联赛 | 纳穆旺戈开拓者 VS 达尔城 (M3U8)
+https://live.hztx2020.com/live/76967252_716600ad2f0749eeea9581215db7198c.m3u8?auth_key=1795536502-0-0-1a9c2f8984dbe6055a3bcd7d7609d39e
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZmU0M2JjZTNlYTEtNzJlNw/M2RmZWRjYzQ4YTgtYzFiYw.webp" group-title="世界青年U-17足球锦标赛",世界青年U-17足球锦标赛 | 委内瑞拉U17 VS 罗马尼亚U17 (FLV)
+https://live1.hztx2020.com/live/71762596_ad036cc4afd1138383b69337c3b3c614.flv?auth_key=1795537827-0-0-57c3dd0671ce4d74dc83890e319f93fb
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZmU0M2JjZTNlYTEtNzJlNw/M2RmZWRjYzQ4YTgtYzFiYw.webp" group-title="世界青年U-17足球锦标赛",世界青年U-17足球锦标赛 | 委内瑞拉U17 VS 罗马尼亚U17 (M3U8)
+https://live1.hztx2020.com/live/71762596_ad036cc4afd1138383b69337c3b3c614.m3u8?auth_key=1795537827-0-0-57c3dd0671ce4d74dc83890e319f93fb
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjhmYWJiYWZjMGYtY2Q3Mg/OGE4MjIyNTJiZGYtODRkYg.webp" group-title="世界青年U-17足球锦标赛",世界青年U-17足球锦标赛 | 哥斯达黎加U17 VS 爱尔兰U17 (FLV)
+https://live.hztx2020.com/live/71762540_c29459472ffe956cda9949e968337080.flv?auth_key=1795537878-0-0-7ffbdf4c8119a5310c7295c05b77dc5e
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjhmYWJiYWZjMGYtY2Q3Mg/OGE4MjIyNTJiZGYtODRkYg.webp" group-title="世界青年U-17足球锦标赛",世界青年U-17足球锦标赛 | 哥斯达黎加U17 VS 爱尔兰U17 (M3U8)
+https://live.hztx2020.com/live/71762540_c29459472ffe956cda9949e968337080.m3u8?auth_key=1795537878-0-0-7ffbdf4c8119a5310c7295c05b77dc5e
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWU2MDhkZDA1NTEtNTFmMg/ZmI1NjkzMmRjY2MtZmY1MA.webp" group-title="沙特阿拉伯青年联赛",沙特阿拉伯青年联赛 | 布赖代先锋青年队 VS 利雅得青年人青年队 (FLV)
+https://live2.hztx2020.com/live/vrqwni4w05rh4qn_7e211328a6199477f4d7c02b2a47e98d.flv?auth_key=1795539282-0-0-43b6a59289e2c873b42cf982b88cb857
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWU2MDhkZDA1NTEtNTFmMg/ZmI1NjkzMmRjY2MtZmY1MA.webp" group-title="沙特阿拉伯青年联赛",沙特阿拉伯青年联赛 | 布赖代先锋青年队 VS 利雅得青年人青年队 (M3U8)
+https://live2.hztx2020.com/live/vrqwni4w05rh4qn_7e211328a6199477f4d7c02b2a47e98d.m3u8?auth_key=1795539282-0-0-43b6a59289e2c873b42cf982b88cb857
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNmY2U1NDZlMDctMDJlOQ/MDAwZmU2YTE1ZDYtYmIxMw.webp" group-title="印度甲级联赛",印度甲级联赛 | 斯雷尼迪FC VS 西钱马里FC (FLV)
+https://live3.hztx2020.com/live/14592742_73a69a04df95ac9bf6951088246e6d13.flv?auth_key=1795539326-0-0-4b247092a86ab105d528a73d12d011c0
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNmY2U1NDZlMDctMDJlOQ/MDAwZmU2YTE1ZDYtYmIxMw.webp" group-title="印度甲级联赛",印度甲级联赛 | 斯雷尼迪FC VS 西钱马里FC (M3U8)
+https://live3.hztx2020.com/live/14592742_73a69a04df95ac9bf6951088246e6d13.m3u8?auth_key=1795539326-0-0-4b247092a86ab105d528a73d12d011c0
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjkwMDllOTI4ZjMtN2RkMA/NzA2MTA2NWRkZWQtNGZmYw.webp" group-title="世界青年U-17足球锦标赛",世界青年U-17足球锦标赛 | 日本U17 VS 塞尔维亚U17 (FLV)
+https://live2.hztx2020.com/live/71762612_45dff2e85122c7c9fab0de3af180069f.flv?auth_key=1795539326-0-0-0ddb7c3f5d1f00fbb071da3b83b6c16b
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjkwMDllOTI4ZjMtN2RkMA/NzA2MTA2NWRkZWQtNGZmYw.webp" group-title="世界青年U-17足球锦标赛",世界青年U-17足球锦标赛 | 日本U17 VS 塞尔维亚U17 (M3U8)
+https://live2.hztx2020.com/live/71762612_45dff2e85122c7c9fab0de3af180069f.m3u8?auth_key=1795539326-0-0-0ddb7c3f5d1f00fbb071da3b83b6c16b
 #EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDk0NmUwZWRmODYtNTg1YQ/MmQwOWFlZGVjYjgtNGU5OA.webp" group-title="其他比赛",小甜甜 (比赛流)
-https://live1.hztx2020.com/live/14099733_759381496de849056ca30c49ef8c4f09_autoChange.m3u8?auth_key=1795276773-0-0-f99b1f3cb81bb5c9078bf4daecdc8d7b
+https://live.hztx2020.com/live/14397034_9db39f152ac084e959cf253fc7a6f2bf_autoChange.m3u8?auth_key=1795539716-0-0-ea8e9ec4c3d6eff45f5b731ffed48a3d
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MjhmYWJiYWZjMGYtY2Q3Mg/OGE4MjIyNTJiZGYtODRkYg.webp" group-title="其他比赛",卫星09 (比赛流)
+https://live.hztx2020.com/live/71762540_c29459472ffe956cda9949e968337080_autoChange.m3u8?auth_key=1795539715-0-0-e21697e8bfc0b2ec0d7a26a8576e14e8
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZmU0M2JjZTNlYTEtNzJlNw/M2RmZWRjYzQ4YTgtYzFiYw.webp" group-title="其他比赛",卫星17 (比赛流)
+https://live1.hztx2020.com/live/71762596_ad036cc4afd1138383b69337c3b3c614_autoChange.m3u8?auth_key=1795539715-0-0-34d15e353eb7d259cf409fc48eacc87d
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjkwMDllOTI4ZjMtN2RkMA/NzA2MTA2NWRkZWQtNGZmYw.webp" group-title="其他比赛",卫星19 (比赛流)
+https://live2.hztx2020.com/live/71762612_45dff2e85122c7c9fab0de3af180069f_autoChange.m3u8?auth_key=1795539716-0-0-cc8e0b2bd3d9edbe7b2df05554eaae81
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YTA4MGViMmYxYTQtMGYxNQ/ZDM5Njc4NTI2MjYtZmQzOA.webp" group-title="其他比赛",鹿鹿 (比赛流)
+https://live.hztx2020.com/live/14375039_70761cc2275a1b3fd2080f24806510ba_autoChange.m3u8?auth_key=1795539717-0-0-10d6a967fe942c4f28cbd05b25090e23
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGIxZWZkODYxOGYtYjhkNg/MTJkY2Y0MTI1OWQtYWUzYg.webp" group-title="其他比赛",苗苗 (比赛流)
+https://live.hztx2020.com/live/14228460_15a369b2b8a331d63df89f6073a6869a_autoChange.m3u8?auth_key=1795539715-0-0-50b992d22a92e2dfabfa7968c4362102
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZTYwNjUyOGJmOTEtMWQxNA/OGU2ODYzYTk2OTktYjkzMw.webp" group-title="其他比赛",夏依依 (比赛流)
+https://live1.hztx2020.com/live/14228459_cb9b9fc04f5c3e443d6efd43433e50f3_autoChange.m3u8?auth_key=1795539715-0-0-3514baaf00bb8a7fa3496e92f26b3d05
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNmY2U1NDZlMDctMDJlOQ/MDAwZmU2YTE1ZDYtYmIxMw.webp" group-title="其他比赛",卫星08 (比赛流)
+https://live3.hztx2020.com/live/14592742_73a69a04df95ac9bf6951088246e6d13_autoChange.m3u8?auth_key=1795539716-0-0-b9f9f32e844f6197ec1fe0301fd3b6b3
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OWU2MDhkZDA1NTEtNTFmMg/ZmI1NjkzMmRjY2MtZmY1MA.webp" group-title="其他比赛",卫星16 (比赛流)
+https://live2.hztx2020.com/live/vrqwni4w05rh4qn_7e211328a6199477f4d7c02b2a47e98d_autoChange.m3u8?auth_key=1795539715-0-0-7ac23d3a7ebef65d00ca7dabde8484d0
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZTkxNDE2NDQ5ZmYtNDAzOQ/NmM3NzgzMWQyOTQtMWM3YQ.webp" group-title="其他比赛",瑶瑶 (比赛流)
+https://live1.hztx2020.com/live/14338669_bc8d60c74f872d1c7574aed032600f39_autoChange.m3u8?auth_key=1795539717-0-0-5228b4a113a17ff90a8e428160839ac1
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OTg3NTUyZDMwYTgtZjNiNQ/NWRjNjg3Y2E1NDMtZjE4NA.webp" group-title="其他比赛",老黄 (比赛流)
+https://live1.hztx2020.com/live/14338669_bc8d60c74f872d1c7574aed032600f39_autoChange.m3u8?auth_key=1795539717-0-0-5228b4a113a17ff90a8e428160839ac1
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ODZjNDY0ZDIxMTEtZmQ0NA/MmE1ZTdiODIzNTQtNTRlNw.webp" group-title="其他比赛",小狐狸 (比赛流)
+https://live.hztx2020.com/live/14338694_73d2af85f5b429d669a20e57d516afbc_autoChange.m3u8?auth_key=1795539717-0-0-b8bbd93b19551581ab35c782ee54780e
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/OGZjYjM0ZTJiMDktYTA0Nw/ZmYzMjZiZmUwMWUtZjI5MQ.webp" group-title="其他比赛",西瓜解说 (比赛流)
+https://live.hztx2020.com/live/14338694_73d2af85f5b429d669a20e57d516afbc_autoChange.m3u8?auth_key=1795539717-0-0-b8bbd93b19551581ab35c782ee54780e
 #EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MGUyMDczMjI0YzQtMGE5NA/MTA4Yjk3NjM4NjEtZWQ1Ng.webp" group-title="其他比赛",可可 (比赛流)
-https://live.hztx2020.com/live/14099485_a1aa29dd060d9f962c0813c9b2d1559a_autoChange.m3u8?auth_key=1795276773-0-0-50ba77b41aebbe5207fab08c4a106468
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/Yzc3NmRhYWU2ZjQtYWI3OQ/OGRlOTQyMmE0YWQtODlkOQ.webp" group-title="其他比赛",小韩 (比赛流)
-https://live1.hztx2020.com/live/14720177_5c4bdd5ba71e605b89a7fcf1c6115537_autoChange.m3u8?auth_key=1795276774-0-0-6415ef3f44a15932ed9104e13205c76f
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/Nzg5NWEyYmRkZWYtMGQ5Ng/NzA0YjlkOTBkNWYtOTM0OQ.webp" group-title="其他比赛",暖暖 (比赛流)
-https://live.hztx2020.com/live/14720178_e274912909c0fdfd4002e4a630dd06ca_autoChange.m3u8?auth_key=1795276774-0-0-ca27ead73aa7e7d818b31d82d7cb977b
-#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWY2OWM3N2EzODYtNDAwZQ/ZDZkODg2NWNlYWMtNTQ2OQ.webp" group-title="其他比赛",麦子 (比赛流)
-https://live2.hztx2020.com/live/14720179_7233b616f5f95ce84bc6597848c2c180_autoChange.m3u8?auth_key=1795276774-0-0-e2869c20845402dcb321ad284c99ecf7
+https://live.hztx2020.com/live/14338897_1329da477c4110e8c739bf9b060d9a24_autoChange.m3u8?auth_key=1795539717-0-0-c4f13266a69c65c87480d4a8b838e2e9
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZjZlODY3M2JlMjMtYjAxNQ/NzQzMGZhMGJhZGUtNzg2Yg.webp" group-title="其他比赛",妮妮 (比赛流)
+https://live.hztx2020.com/live/14338897_1329da477c4110e8c739bf9b060d9a24_autoChange.m3u8?auth_key=1795539717-0-0-c4f13266a69c65c87480d4a8b838e2e9
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NzczYTNjYzBkN2ItZWY5ZA/M2IyYzkyNDkyYWQtYjIyZQ.webp" group-title="其他比赛",卫星11 (比赛流)
+https://live.hztx2020.com/live/76967252_716600ad2f0749eeea9581215db7198c_autoChange.m3u8?auth_key=1795539717-0-0-20c340c92e72f77dd89646c097750d60
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDk0NmUwZWRmODYtNTg1YQ/MmQwOWFlZGVjYjgtNGU5OA.webp" group-title="其他比赛",小甜甜 (比赛流)
+https://live.hztx2020.com/live/14695932_a30cff4e66f8398b75484dfe3d7499cb_autoChange.m3u8?auth_key=1795539717-0-0-e17c37b775231375f09bc93a15f97cef
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YWNiMjVhNzkzYmUtNWIzNg/Nzk0YzRlYjlmNDctMzYyMg.webp" group-title="其他比赛",卫星07 (比赛流)
+https://live.hztx2020.com/live/14695932_a30cff4e66f8398b75484dfe3d7499cb_autoChange.m3u8?auth_key=1795539717-0-0-e17c37b775231375f09bc93a15f97cef
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/YTNhYzYwZGUwNzktOTlkYw/MjNiMjY3Y2VkNDMtOTJmNA.webp" group-title="其他比赛",大鹏 (比赛流)
+https://live4.hztx2020.com/live/76692544_47b19bc245acd762f5452bb07e72f190_autoChange.m3u8?auth_key=1795539715-0-0-6bb14819e5b9c8b488264ea672be5339
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZGNkZGI2MDJhMWItNDIyZA/YzBkNDFhYjM2N2EtN2Q5Mw.webp" group-title="其他比赛",一甜 (比赛流)
+https://live3.hztx2020.com/live/14683554_fc3acdd5a295394c28141491d64f5bbe_autoChange.m3u8?auth_key=1795539715-0-0-294cc4a0797fcfdf93ed3077bd2a4d5b
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/MDAzYmU2ZGVhOGMtOGM4ZQ/NWIyZGM5NzQzY2QtNGUwNA.webp" group-title="其他比赛",老布 (比赛流)
+https://live5.hztx2020.com/live/14683556_e558412381e093a657cedda93033050f_autoChange.m3u8?auth_key=1795539715-0-0-beb8efffc99daff3bc8fa9705d86d277
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/M2YxMzZkZTA4MjgtNGVhMg/MGY5NzlhNGY4MzYtYjEwYg.webp" group-title="其他比赛",卫星06 (比赛流)
+https://live.hztx2020.com/live/34kgps1lroxheko_01a626313b5eeb681f2cbd4a070502b5_autoChange.m3u8?auth_key=1795539715-0-0-a70071fa446de31309fdb5acfe3a184f
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/ZDc5MzI4YWY2NDAtN2EzNw/NDA2NDM5NGViYzctYTA1YQ.webp" group-title="其他比赛",卫星15 (比赛流)
+https://live.hztx2020.com/live/edq0esdrvl0fekx_8ef73a6e46304f387858652159cf4d17_autoChange.m3u8?auth_key=1795539715-0-0-9c3c6540cc64a519624b4ab7f15b8bd7
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWY5YjQ4NDNmMzctOGIwMg/Y2YxM2NlNTJjOTUtODY0ZA.webp" group-title="其他比赛",卫星05 (比赛流)
+https://live.hztx2020.com/live/6975rid0gezagk2_b7dde6858f3b9b0a088cb85b8a9d1c75_autoChange.m3u8?auth_key=1795539715-0-0-35dd6a39df9cead5efb49cd42dc03d63
+#EXTINF:-1 tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/admin/image/NWYwYzc1NjcxODAtMzU3Zg/ZjA2YzVlMjVjYzQtMmRiYw.webp" group-title="其他比赛",卫星12 (比赛流)
+https://live.hztx2020.com/live/34kgxi5wo3wue7o_ff9d6e8860f5a621ccab6af8d50a9570_autoChange.m3u8?auth_key=1795539715-0-0-007385834a85238abe86c687ee35a25c
